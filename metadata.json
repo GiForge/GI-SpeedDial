@@ -1,0 +1,6 @@
+{
+  "name": "GI-SpeedDial",
+  "description": "Dashboard e speed dial avanzato per preferiti e scorciatoie web con cartelle, icone dinamiche e backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
